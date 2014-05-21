@@ -1,0 +1,16 @@
+html{
+    background-color: rgb(34, 45, 58);
+}
+.clock {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    top: 50%;
+    left: 50%;
+    margin: -60px 0 0 -60px;
+    border-radius: 10px;
+    float: left;
+    transform-origin-x: 50%;
+    transform-origin-y: 50%;
+    transform-origin-z: initial;
+}
