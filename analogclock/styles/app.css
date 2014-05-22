@@ -3,14 +3,15 @@ html{
 }
 .clock {
     position: absolute;
-    width: 120px;
-    height: 120px;
+    width: 64px;
+    height: 64px;
     top: 50%;
     left: 50%;
-    margin: -60px 0 0 -60px;
+    margin: -32px 0 0 -32px;
     border-radius: 10px;
     float: left;
-    transform-origin-x: 50%;
-    transform-origin-y: 50%;
-    transform-origin-z: initial;
+    -webkit-transform-origin-x: 50%;
+    -webkit-transform-origin-y: 50%;
+    -webkit-transform-origin-z: initial;
+    -webkit-transform:scale(5);
 }

@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e81ca9b8-e830-45fa-81b8-95f0438f8b3f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/analogclock/styles/app.css" afterPath="$PROJECT_DIR$/analogclock/styles/app.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/analogclock/scripts/app.js" afterPath="$PROJECT_DIR$/analogclock/scripts/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/analogclock/index.html" afterPath="$PROJECT_DIR$/analogclock/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SVG.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,25 +31,25 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/analogclock/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="15" selection-start="788" selection-end="788" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="578">
+            <state line="17" column="19" selection-start="792" selection-end="792" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="861">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/analogclock/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="380" selection-end="380" vertical-scroll-proportion="0.3252551" vertical-offset="0" max-vertical-offset="784">
+            <state line="15" column="27" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="app.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/analogclock/styles/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="26" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+            <state line="15" column="31" selection-start="361" selection-end="361" vertical-scroll-proportion="0.27597404" vertical-offset="0" max-vertical-offset="924">
               <folding />
             </state>
           </provider>
@@ -55,7 +58,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example1/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="7" selection-start="954" selection-end="954" vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="493">
+            <state line="23" column="7" selection-start="954" selection-end="954" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="493">
               <folding />
             </state>
           </provider>
@@ -64,10 +67,8 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="15" selection-start="904" selection-end="904" vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="578">
-              <folding>
-                <element signature="n#style#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="20" column="15" selection-start="904" selection-end="904" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="578">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -75,7 +76,7 @@
       <file leaf-file-name="Heckert_GNU_white.svg" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/svgfiles/Heckert_GNU_white.svg">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="6" selection-start="24175" selection-end="24175" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
+            <state line="5" column="6" selection-start="24175" selection-end="24175" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="187">
               <folding />
             </state>
           </provider>
@@ -96,9 +97,9 @@
       <list>
         <option value="$PROJECT_DIR$/example1/index.html" />
         <option value="$PROJECT_DIR$/example2/index.html" />
-        <option value="$PROJECT_DIR$/analogclock/styles/app.css" />
         <option value="$PROJECT_DIR$/analogclock/index.html" />
         <option value="$PROJECT_DIR$/analogclock/scripts/app.js" />
+        <option value="$PROJECT_DIR$/analogclock/styles/app.css" />
       </list>
     </option>
   </component>
@@ -106,8 +107,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1456" />
-    <option name="height" value="916" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -135,6 +136,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -265,7 +267,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -304,27 +305,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="916" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -344,6 +345,48 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/analogclock/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="15" selection-start="788" selection-end="788" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analogclock/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="380" selection-end="380" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analogclock/styles/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="26" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="7" selection-start="954" selection-end="954" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="493">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="15" selection-start="904" selection-end="904" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svgfiles/Heckert_GNU_white.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="6" selection-start="24175" selection-end="24175" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="187">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/svgfiles/Heckert_GNU_white.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="6" selection-start="24175" selection-end="24175" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
@@ -353,37 +396,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/example1/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="7" selection-start="954" selection-end="954" vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="493">
+        <state line="23" column="7" selection-start="954" selection-end="954" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="493">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/example2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="15" selection-start="904" selection-end="904" vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="578">
-          <folding>
-            <element signature="n#style#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/analogclock/styles/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="26" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+        <state line="20" column="15" selection-start="904" selection-end="904" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="578">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/analogclock/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="15" selection-start="788" selection-end="788" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="578">
+        <state line="17" column="19" selection-start="792" selection-end="792" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="861">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/analogclock/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="380" selection-end="380" vertical-scroll-proportion="0.3252551" vertical-offset="0" max-vertical-offset="784">
+        <state line="15" column="27" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analogclock/styles/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="31" selection-start="361" selection-end="361" vertical-scroll-proportion="0.27597404" vertical-offset="0" max-vertical-offset="924">
           <folding />
         </state>
       </provider>

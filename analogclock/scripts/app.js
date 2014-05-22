@@ -9,7 +9,9 @@
         var mdeg = (m+s/60)*360/60;
         var sdeg = (s)*360/60;
 
-        console.log(hdeg + ' ' + mdeg + ' ' + sdeg);
+        $('#hours').attr('transform', 'rotate(' + hdeg + ' 32 32)');
+        $('#minutes').attr('transform','rotate(' + mdeg + ' 32 32)');
+        $('#seconds').attr('transform','rotate(' + sdeg + ' 32 32)');
 
         setTimeout(function(){updateClock()}, 500);
     }
